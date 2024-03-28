@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "326427100229",
+    "project_id": "otipyverify1",
+    "storage_bucket": "otipyverify1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326427100229:android:e8b6527ffb27f2b4e58f2c",
+        "android_client_info": {
+          "package_name": "com.otpverify1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHMvifIJyzXupAX5expolTxgAbrr3pMqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
